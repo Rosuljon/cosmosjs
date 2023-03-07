@@ -157,3 +157,4 @@ function toHex(str,hex){
 	}
 	return hex
 }
+
